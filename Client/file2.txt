@@ -1,0 +1,3 @@
+info
+average_of_number_of_rooms
+execute_script file2.txt
